@@ -1,5 +1,5 @@
 {
-  "Version": "1.2",
+  "Version": "1.3",
   "ReleaseNotes": "Nova Atualização Disponível 🦸🏻 \n\n SEJA BEM VINDO (A) AO 🎉 👏🏻\n\n NET ONLINE [VOCÊ SEMPRE ONLINE]!\n\n💙💜❤️MANTENHA O APLICATIVO❤️💜💙\n SEMPRE ATUALIZANDO 📱\n •••••••••••••••••••••••••••••••••••••••••••••••••\n🆚 Versão: 1.0\n•••••••••••••••••••••••••••••••••••••••••••••••••\n🔰[🟣 VIVO] com mais opções\npois tem que testa sua região🌎️\n🔰🔵 TIM 🔴 CLARO 🟣 VIVO 🟠 Oi\n===============================\n🗣️ Uma dica, recomendo ter dois chip\n🤖 Caso uma rede caia vc tem a outra\n🤖 Para se conectar tranquilamente✔️\n===============================\n🧑🏻‍💻 Qualquer dificuldade para se\n📱 Conectar entre em contato\n🙋🏻‍♂️ Com seu fornecedor\n🤔 para você ser orientado 👍🏻….",
   "UrlUpdate": "https://raw.githubusercontent.com/luffyelbrabo/NET-ONLINE/main/NET-ONLINE-LUFFYELBRABO",
   "Sms": "https://raw.githubusercontent.com/luffyelbrabo/SMS/main/TODOS_APKS",
@@ -8,15 +8,6 @@
   "UrlTermos": "https://raw.githubusercontent.com/luffyelbrabo/TERMOS_DE_USO/main/VPN",
   "CheckUser": "true",
   "Udp": [
-    {
-      "Porta": "7295"
-    },
-    {
-      "Porta": "7296"
-    },
-    {
-      "Porta": "7297"
-    },
     {
       "Porta": "7298"
     },
